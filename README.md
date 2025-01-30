@@ -1,4 +1,3 @@
-comment je referme les codes ?
 
 # CHECKSUM :
 
