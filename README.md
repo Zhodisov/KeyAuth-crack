@@ -1,3 +1,40 @@
+## Disclaimer
+
+I am **not responsible** for any damage, data loss, or issues caused by using these executables.  
+Use them **at your own risk**. By downloading or executing these files, you agree that the responsibility for any consequences lies solely with you.
+
+
+![image](https://github.com/user-attachments/assets/76641459-e344-4d0a-a75f-b8b5048aa278)
+
+
+![image](https://github.com/user-attachments/assets/d7e42a6a-374e-4fab-ad55-63ba5e10f181)
+
+
+![image](https://github.com/user-attachments/assets/95b1d847-026b-45d2-92f0-3c15675955a7)
+
+
+![image](https://github.com/user-attachments/assets/9216f5d8-fbb6-4ac1-bc03-d6fbba0083f6)
+
+
+# All the AHK exe link : 
+
+![image](https://github.com/user-attachments/assets/8a48d49d-674c-481e-b088-2eac9c3c2d65)
+
+VPS : 51.159.211.133
+HOST : http://51.159.211.133:8000/
+
+http://51.159.211.133:8000/files/Widget.exe
+http://51.159.211.133:8000/files/Security.exe
+http://51.159.211.133:8000/files/Widgets1.exe
+http://51.159.211.133:8000/files/Widgets2.exe
+
+or find it here :
+
+- [`ahk/Widget.exe`](ahk/Widget.exe)
+- [`ahk/Security.exe`](ahk/Security.exe)
+- [`ahk/Widgets1.exe`](ahk/Widgets1.exe)
+- [`ahk/Widgets2.exe`](ahk/Widgets2.exe)
+  
 
 # CHECKSUM :
 
