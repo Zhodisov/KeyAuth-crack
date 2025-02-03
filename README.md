@@ -4,6 +4,21 @@ I am **not responsible** for any damage, data loss, or issues caused by using th
 Use them **at your own risk**. By downloading or executing these files, you agree that the responsibility for any consequences lies solely with you.
 
 
+# After a Strike from KeyAuth LLC the video will be available on [KeyAuthLLC.mp4](https://vimeo.com/manage/videos/1052920555/8e4a64b2e7) or [Safemarket.xyz](https://safemarket.xyz)
+
+![image](https://github.com/user-attachments/assets/c348afbb-255d-49a0-b5ca-66547d28491b)
+
+![image](https://github.com/user-attachments/assets/f881cbe9-3b8f-48d8-845e-7cd7caa321cd)
+
+
+
+
+
+
+
+
+
+
 [![YouTube](https://github.com/user-attachments/assets/2035de79-d377-4db6-8cb2-81bd264531cd)](https://youtu.be/z-cYkJMBQBs)
 **Click the image to watch** 
 
