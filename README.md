@@ -1,8 +1,12 @@
 ## Disclaimer
 
-I am **not responsible** for any damage, data loss, or issues caused by using these executables.  
-Use them **at your own risk**. By downloading or executing these files, you agree that the responsibility for any consequences lies solely with you.
+**Usage & Purpose**  
+The content of this repository is provided solely for educational and research purposes. I do **not** endorse, promote, or facilitate any illegal activities, unauthorized access, or any misuse of the provided executables, disassembled code, or other materials. All executables and code are provided "as is" without any warranties. Use them **at your own risk**. By downloading or using these materials, you agree that any consequences arising from their use are your sole responsibility.
 
+**Notice to GitHub Moderators**  
+This repository is maintained strictly for academic, informational, and research purposes. The content herein—including disassembled code snippets, downloadable executables, and related files—is presented in a context of analysis and demonstration. It is not intended to infringe on any intellectual property rights or to enable any activities that violate applicable laws or GitHub's policies. If any content appears questionable, please consider the context of research and fair use. Thank you for your understanding and for taking the time to review the materials in their proper context.
+
+---
 
 # After a Strike from KeyAuth LLC the video will be available on [KeyAuthLLC.mp4](https://vimeo.com/manage/videos/1052920555/8e4a64b2e7) or [Safemarket.xyz](https://safemarket.xyz)
 
