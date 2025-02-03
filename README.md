@@ -8,7 +8,7 @@ This repository is maintained strictly for academic, informational, and research
 
 ---
 
-# After a Strike from KeyAuth LLC the video will be available on [KeyAuthLLC.mp4](https://vimeo.com/manage/videos/1052920555/8e4a64b2e7) or [Safemarket.xyz](https://safemarket.xyz)
+# After a Strike from KA the video will be available on [KA.mp4](https://vimeo.com/manage/videos/1052920555/8e4a64b2e7) or [Safemarket.xyz](https://safemarket.xyz)
 
 ![image](https://github.com/user-attachments/assets/c348afbb-255d-49a0-b5ca-66547d28491b)
 
